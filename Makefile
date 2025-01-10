@@ -1,5 +1,5 @@
 PKG_NAME := R-ParamHelpers
-URL = https://cran.r-project.org/src/contrib/ParamHelpers_1.14.1.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/ParamHelpers_1.14.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
